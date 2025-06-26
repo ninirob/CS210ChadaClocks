@@ -54,5 +54,5 @@ To support continued learning, I’m adding resources like cppreference.com and 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/chada-tech-clocks.git
-   cd chada-tech-clocks
+   git clone https://github.com/ninirob/CS210ChadaClocks.git
+   cd CS210ChadaClocks
